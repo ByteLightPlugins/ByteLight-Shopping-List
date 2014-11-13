@@ -45,7 +45,7 @@ hr {
 
 .notes-section {
   position: absolute;
-  font-size: 41px;
+  font-size: ${font_size}px;
 }
 
 .notes-section-left {
