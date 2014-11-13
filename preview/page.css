@@ -21,6 +21,10 @@
   left: 150px;
 }
 
+.notes-section-left li {
+  text-align: left;
+}
+
 .list-left {
   margin-left: 15px;
 }
