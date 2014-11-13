@@ -1,0 +1,40 @@
+.body-div {
+  width: 768px;
+  height: 980px;
+  background-image: url("http://ddx1wnnvabyqc.cloudfront.net/yellow_sticky.jpg");
+}
+
+.notes-section {
+  position: absolute;
+  font-size: 41px;
+}
+
+.notes-section-left {
+  top: 330px;
+  width: 300px;
+  left: 150px;
+}
+
+.list-left {
+  margin-left: 15px;
+}
+
+.list-right {
+  width: 64px;
+  height: 64px;
+  border: 2px solid;
+  border-radius: 13%;
+}
+
+.notes-section-right {
+  top: 318px;
+  width: 150px;
+  left: 532px;
+}
+
+.notes-section input {
+  -webkit-transform: scale(1.5) !important; /* Safari and Chrome */
+  position: relative;
+  top: -5px;
+  padding: 10px;
+}
