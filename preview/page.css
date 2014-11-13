@@ -1,7 +1,7 @@
 .body-div {
   width: 768px;
   height: 980px;
-  background-image: url("http://ddx1wnnvabyqc.cloudfront.net/yellow_sticky.jpg");
+  background-image: url("http://ddx1wnnvabyqc.cloudfront.net/lined_paper_2.jpg");
 }
 
 .notes-section {
@@ -10,9 +10,17 @@
 }
 
 .notes-section-left {
-  top: 330px;
+  top: 276px;
   width: 300px;
   left: 150px;
+}
+
+.notes-section-left li {
+  height: 66px;
+}
+
+.notes-section-right li {
+  height: 67px;
 }
 
 .list-left {
@@ -20,14 +28,14 @@
 }
 
 .list-right {
-  width: 64px;
-  height: 64px;
+  width: 56px;
+  height: 56px;
   border: 2px solid;
   border-radius: 13%;
 }
 
 .notes-section-right {
-  top: 318px;
+  top: 268px;
   width: 150px;
   left: 532px;
 }
