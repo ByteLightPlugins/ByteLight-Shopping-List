@@ -1,7 +1,13 @@
 .body-div {
   width: 768px;
   height: 980px;
-  background-image: url("http://ddx1wnnvabyqc.cloudfront.net/lined_paper_2.jpg");
+  background: white;
+}
+
+.shopping-header {
+  text-align: center;
+  font-size: 38px;
+  padding-top: 137px;
 }
 
 .notes-section {
@@ -10,17 +16,9 @@
 }
 
 .notes-section-left {
-  top: 276px;
+  top: 330px;
   width: 300px;
   left: 150px;
-}
-
-.notes-section-left li {
-  height: 66px;
-}
-
-.notes-section-right li {
-  height: 67px;
 }
 
 .list-left {
@@ -28,14 +26,14 @@
 }
 
 .list-right {
-  width: 56px;
-  height: 56px;
+  width: 64px;
+  height: 64px;
   border: 2px solid;
   border-radius: 13%;
 }
 
 .notes-section-right {
-  top: 268px;
+  top: 318px;
   width: 150px;
   left: 532px;
 }
